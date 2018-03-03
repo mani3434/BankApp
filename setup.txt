@@ -1,1 +1,2 @@
 "Project Setup" 
+It is a web application developed using spring mvc framework
